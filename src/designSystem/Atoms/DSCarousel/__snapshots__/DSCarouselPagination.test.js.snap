@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test carousel paging carousel paging snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "bottom": 40,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+      },
+      null,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderColor": undefined,
+          "borderRadius": 5,
+          "borderWidth": 1.5,
+          "height": 10,
+          "width": 10,
+        },
+        Object {
+          "backgroundColor": undefined,
+          "marginLeft": 0,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderColor": undefined,
+          "borderRadius": 5,
+          "borderWidth": 1.5,
+          "height": 10,
+          "width": 10,
+        },
+        Object {
+          "backgroundColor": null,
+          "marginLeft": 13,
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "borderColor": undefined,
+          "borderRadius": 5,
+          "borderWidth": 1.5,
+          "height": 10,
+          "width": 10,
+        },
+        Object {
+          "backgroundColor": null,
+          "marginLeft": 13,
+        },
+      ]
+    }
+  />
+</View>
+`;

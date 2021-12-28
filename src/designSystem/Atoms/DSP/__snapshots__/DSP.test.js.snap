@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DSP tests test render DSP 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": undefined,
+        "fontFamily": "Montserrat-Regular",
+        "fontSize": 14,
+        "letterSpacing": 1,
+        "lineHeight": 24,
+        "marginBottom": 10,
+        "marginTop": 10,
+      },
+      Object {
+        "textAlign": "justify",
+      },
+    ]
+  }
+/>
+`;
+
+exports[`DSP tests test render DSP text 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": undefined,
+        "fontFamily": "Montserrat-Regular",
+        "fontSize": 14,
+        "letterSpacing": 1,
+        "lineHeight": 24,
+        "marginBottom": 10,
+        "marginTop": 10,
+      },
+      Object {
+        "textAlign": "justify",
+      },
+    ]
+  }
+>
+  test
+</Text>
+`;
+
+exports[`DSP tests test render DSP text left 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": undefined,
+        "fontFamily": "Montserrat-Regular",
+        "fontSize": 14,
+        "letterSpacing": 1,
+        "lineHeight": 24,
+        "marginBottom": 10,
+        "marginTop": 10,
+      },
+      Object {
+        "textAlign": "left",
+      },
+    ]
+  }
+>
+  test
+</Text>
+`;
